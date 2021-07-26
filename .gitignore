@@ -12,3 +12,5 @@ assets/video
 !app.js
 #mac file
 DS_Store
+#ignore PHP
+*.php
