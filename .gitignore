@@ -1,0 +1,14 @@
+#this is a comment
+
+#ignore all js files
+*.js
+#ignore folder
+node_modules/
+#ignore assets
+assets/video
+#ignore mp4
+*.mp4
+#not ignoring
+!app.js
+#mac file
+DS_Store
