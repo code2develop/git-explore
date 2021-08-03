@@ -1,4 +1,4 @@
-one function - I have added a very one ok function here.
+one function - I have added a very important function here.
 
 added a chart function in our branch
 
