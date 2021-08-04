@@ -1,8 +1,7 @@
-one function - I have added a very important function here.
+one function - I have added an important function here.
 
 added a chart function in our branch
 
 added a second chart
 
 
-adding a new function to login user via X method
