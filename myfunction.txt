@@ -1,7 +1,11 @@
+
 one function - I have added a very very important function here.
+
+
+
 
 added a chart function in our branch
 
 added a second chart
 
-added a code for doing logout.
+
