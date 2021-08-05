@@ -1,3 +1,3 @@
 document.write("hello");
 
-link for google sign up
+link for google sign up into google
